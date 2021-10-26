@@ -1,1 +1,1 @@
-# my-first-repo
+ez életem első github repoja
